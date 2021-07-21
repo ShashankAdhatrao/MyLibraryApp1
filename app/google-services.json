@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477083572996",
+    "firebase_url": "https://mylib-b5494-default-rtdb.firebaseio.com",
+    "project_id": "mylib-b5494",
+    "storage_bucket": "mylib-b5494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477083572996:android:a5c879474a71007bea4e51",
+        "android_client_info": {
+          "package_name": "com.shashank.mylibrary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477083572996-3dp94701g8a8l224tgoq3bdrfu9dnfrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM0J7oX_7Zi5f3h027s1NBtPfHETjobnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477083572996-3dp94701g8a8l224tgoq3bdrfu9dnfrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
