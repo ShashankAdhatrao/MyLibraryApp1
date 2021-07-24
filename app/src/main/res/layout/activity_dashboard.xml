@@ -52,7 +52,7 @@
                 android:layout_margin="5dp"
                 android:layout_weight="0"
                 android:background="@android:color/transparent"
-                app:srcCompat="@drawable/bookfind" />
+                app:srcCompat="@drawable/libraryadd" />
         </LinearLayout>
 
     </LinearLayout>
